@@ -1401,7 +1401,7 @@ section.contacto div.container {
   position: fixed;
   z-index: 99;
   right: 1px;
-  bottom: 20px;
+  bottom: 10px;
   text-decoration: none;
   cursor: pointer;
   opacity: 0;
@@ -2173,7 +2173,7 @@ button {
 }
 .whatsapp-fijo {
   position: fixed;
-    bottom: 80px;
+    bottom: 70px;
     right: 1px;
     background-color: #25d366d9;
     width: 44px;
