@@ -2169,7 +2169,7 @@ button {
 }
 .tecnologia-proyecto span {
   font-weight: 500;
-  padding-inline-end: 0.5rem;
+  padding-inline: 0.5rem;
 }
 .whatsapp-fijo {
   position: fixed;
@@ -2471,4 +2471,9 @@ article.proyecto {
 }
 .container-legales li {
   padding-block-end: 0.5rem;
+}
+@media(min-width:768px){
+p.parraf-princ-hero{
+  width: 86%;
+}
 }
